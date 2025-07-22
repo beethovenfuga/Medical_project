@@ -1,4 +1,4 @@
-# Osteoporotic Vertebral Compression Fracture Detection using Deep Learning
+# Comparative efficacy of anteroposterior and lateral X-ray based deep learning in the detection of osteoporotic vertebral compression fracture
 
 This repository contains code for the study:
 
