@@ -19,19 +19,16 @@ This repository contains code for the study:
   <img src="figures/flow.png" alt="Data Flow Diagram" width="700"/>
 </p>
 
-<p align="center"><b>Fig. 1.</b> Flow diagram of the participants. OVCF: osteoporotic vertebral compression fracture.</p>
 
 <p align="center">
   <img src="figures/architecture.png" alt="Model Architecture" width="700"/>
 </p>
 
-<p align="center"><b>Fig. 2.</b> Schematic architecture of the deep learning classification model. <i>CNN₁</i> means EfficientNetV2-s.</p>
 
 <p align="center">
   <img src="figures/preprocessing.png" alt="Dataset Example" width="700"/>
 </p>
 
-<p align="center"><b>Fig. 3.</b> Sample AP X-ray images before and after preprocessing.</p>
 
 
 
@@ -43,12 +40,8 @@ This repository contains code for the study:
 - `medical_eval.py` : Evaluation script for the trained model.
 
 ## 🚀 Usage
-
+> ⚠️ Note: Please modify the dataset path and model parameter paths in both train.py and eval.py before running. These are placeholders and must be updated according to your local environment.
 ### Training
 ```bash
 python train.py
-
-
-> ⚠️ Note: Please modify the dataset path and model parameter paths in both train.py and eval.py before running. These are placeholders and must be updated according to your local environment.
-
 
