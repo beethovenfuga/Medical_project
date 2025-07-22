@@ -48,10 +48,7 @@ This repository contains code for the study:
 ```bash
 python train.py
 
-### Evaluation
-```bash
-python eval.py
 
-> ⚠️ **Note:** Please modify the dataset path and model parameter paths in both `train.py` and `eval.py` before running. These are placeholders and must be updated according to your local environment.
+> ⚠️ Note: Please modify the dataset path and model parameter paths in both train.py and eval.py before running. These are placeholders and must be updated according to your local environment.
 
 
